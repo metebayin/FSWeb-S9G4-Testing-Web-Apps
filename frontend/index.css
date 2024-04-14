@@ -93,9 +93,7 @@ body {
   
   button[type="submit"],
   input[type="button"],
-  input[type="submit"] {
-    -webkit-appearance: none;
-  }
+  input[type="submit"] 
   
   .App {
     max-width: 600px;
